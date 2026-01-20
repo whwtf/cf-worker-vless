@@ -1,5 +1,5 @@
 import { connect } from "cloudflare:sockets";
-let 哎呀呀这是我的VL密钥 = "25284107-7424-40a5-8396-cdd0623f4f05";
+let 哎呀呀这是我的VL密钥 = "6abb501e-1ae6-43b5-94b8-98cc03d0270e";
 let 反代IP = "";
 export default {
   async fetch(访问请求) {
